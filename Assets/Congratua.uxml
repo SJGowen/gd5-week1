@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; width: 400px; height: 164px; position: absolute; background-color: rgba(118, 57, 207, 0);" />
+    <ui:Label text="Label" />
+</ui:UXML>
